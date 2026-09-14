@@ -19,4 +19,4 @@ My work focuses on the parts that make an agent useful beyond a demo: process co
 
 [Engineering archive](https://github.com/mrgyatso/engineering-archive) collects Bongo Claude, Dev Mill, MockChain, CodeCanvas, QueryLens and SmartCI. Each snapshot states what works, what remains incomplete, how it was checked and why it is no longer maintained.
 
-[Portfolio and resume](https://zachary-woods-world.mrgyatso.chatgpt.site/work) · [Interactive portfolio](https://zachary-woods-world.mrgyatso.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/zachwoodscs)
+[Portfolio and resume](https://aletheia.dev/work) · [Interactive portfolio](https://aletheia.dev/) · [LinkedIn](https://www.linkedin.com/in/zachwoodscs)
