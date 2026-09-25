@@ -15,8 +15,4 @@ My work focuses on the parts that make an agent useful beyond a demo: process co
 - [ONNX Resize: making interpolation separable](case-studies/onnx-resize.md) — algorithm, compatibility details and evidence.
 - [Shelly: reviewing agent work through interactive pages](case-studies/shelly.md) — process ownership, page rendering, reply delivery and the EOL decision.
 
-## Historical projects
-
-[Engineering archive](https://github.com/mrgyatso/engineering-archive) collects Bongo Claude, Dev Mill, MockChain, CodeCanvas, QueryLens and SmartCI. Each snapshot states what works, what remains incomplete, how it was checked and why it is no longer maintained.
-
-[Portfolio and resume](https://aletheia.dev/work) · [Interactive portfolio](https://aletheia.dev/) · [LinkedIn](https://www.linkedin.com/in/zachwoodscs)
+[Portfolio](https://aletheia.dev/) · [LinkedIn](https://www.linkedin.com/in/zachwoodscs)
